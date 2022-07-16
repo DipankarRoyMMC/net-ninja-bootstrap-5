@@ -1,0 +1,9 @@
+section{
+    padding: 60px 0;
+}
+.main-img{
+    transition: ease-in-out .4s;
+}
+.main-img:hover{
+    transform: translateY(-10px);
+}
